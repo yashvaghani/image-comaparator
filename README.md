@@ -1,0 +1,2 @@
+# image-comaparator
+ It's about getting similar image using tensorflow and opencv ,the aim is to get to know from two different directories about files which are similar for cleaning extra memory or else of  there are millions of files and you want particular one which you have as a sample in your other folder then this programme in s for those who want to solve this problem,but it's still in working mode for making it as a product
